@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.28.1-dev106.0"
+  }
+}
